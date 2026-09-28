@@ -15,7 +15,12 @@
     {
       "id": 4,
       "name": "Cuidados Diarios"
+    },
+    {
+      "id": 5,
+      "name": "Figuras de Yeso y Cemento"
     }
+    
   ],
   "products": [
     {
@@ -94,6 +99,17 @@
       "quantity": 15,
       "active": true,
       "highlighted": false
+    },
+    {
+      "id": "9",
+      "name": "Figuras de Yeso y Cemento",
+      "price": 2800,
+      "description": "Figuras artesanales en yeso y cemento, ideal para decorar tu espacio con un toque único.",
+      "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500&auto=format&fit=crop&q=60",
+      "category_id": 4,
+      "quantity": 20,
+      "active": true,
+      "highlighted": true
     }
   ],
   "user": [
