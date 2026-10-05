@@ -20,7 +20,6 @@
       "id": 5,
       "name": "Figuras de Yeso y Cemento"
     }
-    
   ],
   "products": [
     {
@@ -49,7 +48,7 @@
       "id": "4",
       "name": "Aros Geométricos Oro",
       "price": 4500,
-      "description": "Aros de diseño moderno con formas geométricas sutiles, chapados en oro de 18k.",
+      "description": "Aros de diseño moderno con formas geométricas sutiles, chapados en oro de 18k y diamantes azules.",
       "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500&auto=format&fit=crop&q=60",
       "category_id": 2,
       "quantity": 8,
@@ -60,7 +59,7 @@
       "id": "5",
       "name": "Vela Lavanda y Vainilla",
       "price": 1800,
-      "description": "Vela aromática de cera de soja 100% natural, con aceites esenciales relajantes de lavanda y vainilla dulce.",
+      "description": "Vela aromática de cera de soja 100% natural, con aceites esenciales relajantes de lavanda, vainilla dulce y sandalo.",
       "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?w=500&auto=format&fit=crop&q=60",
       "category_id": 3,
       "quantity": 30,
@@ -105,11 +104,34 @@
       "name": "Figuras de Yeso y Cemento",
       "price": 2800,
       "description": "Figuras artesanales en yeso y cemento, ideal para decorar tu espacio con un toque único.",
+      "material": "yeso",
       "image": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=500&auto=format&fit=crop&q=60",
-      "category_id": 4,
+      "category_id": 5,
       "quantity": 20,
       "active": true,
       "highlighted": true
+    },
+    {
+      "id": "10",
+      "name": "Virgen Maria",
+      "image": "https://www.google.com/imgres?q=figura%20de%20yeso%20virgen%20maria&imgurl=http%3A%2F%2Fhttp2.mlstatic.com%2FD_953199-CBT106222140099_012026-C.jpg&imgrefurl=https%3A%2F%2Flistado.mercadolibre.com.ar%2Ffiguras-de-yeso.-virgen-maria&docid=aZmG_ZQ2Dvp0qM&tbnid=jjKUMxBtxZrO9M&vet=12ahUKEwjQ1aeHqpyXAxXBpZUCHXacHB4QnPAOegUI8wEQAA..i&w=400&h=400&hcb=2&ved=2ahUKEwjQ1aeHqpyXAxXBpZUCHXacHB4QnPAOegUI8wEQAA",
+      "description": "Virgen Mariaaaa",
+      "material": "cemento",
+      "price": 50000,
+      "quantity": 10,
+      "highlighted": false,
+      "category_id": 5
+    },
+    {
+      "id": "11",
+      "name": "Flor",
+      "image": "https://velisimainsumos.com.ar/wp-content/uploads/2025/06/AR1814_1030.jpeg",
+      "description": "Flor en yeso ideal para souvenir",
+      "price": 4200,
+      "quantity": 34,
+      "highlighted": false,
+      "category_id": 5,
+      "material": "yeso"
     }
   ],
   "user": [
@@ -121,6 +143,15 @@
       "date": "09/11/06",
       "password": "091106",
       "confrimpassword": "091106"
+    },
+    {
+      "name": "Sandra",
+      "lastname": "Lopez",
+      "date": "1994-07-14",
+      "email": "sanlo@gmail.comn",
+      "password": "45678",
+      "confirmPassword": "45678",
+      "id": "QkafIfM"
     }
   ]
 }
